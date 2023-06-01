@@ -16,7 +16,7 @@ I am a Frontend Engineer at Grupo Bursatil Mexicano (GBM+) in Mexico City, Mexic
 ![](https://github-profile-trophy.vercel.app/?username=echvzb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=echvzb)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=thaunze)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=echvzb&icon=0&color=0)](https://visitcount.itsvg.in)
